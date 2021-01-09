@@ -1,2 +1,2 @@
 # PigGame
-A online Pig Game with JavaScript
+A online Pig Game with JavaScript and Firebase 
